@@ -1,6 +1,6 @@
 # ReactJS RoboFriends App
 
-Robofriends application built with ReactJS, HTML, and CSS 
+Robofriends application built with React.js
 
 Try it [here!](https://wolyslager.github.io/robofriends/)
 
