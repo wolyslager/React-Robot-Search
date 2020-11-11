@@ -2,7 +2,7 @@
 
 Robofriends application built with React.js
 
-Try it [here!](https://wolyslager.github.io/robofriends/)
+Try it [here!](https://wolyslager.github.io/React-Robot-Search/)
 
 ![alt text](screenshot.png?raw=true)
 
